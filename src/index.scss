@@ -1,0 +1,11 @@
+$color: aqua;
+$text-align: center;
+$body-width:100%;
+body{
+    width: $body-width;
+    text-align: $text-align;
+}
+.text {
+  color: $color;
+  font-size: 30px;
+}
